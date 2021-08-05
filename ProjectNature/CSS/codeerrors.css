@@ -1,0 +1,11 @@
+strong {
+    font-weight: bold;
+}
+
+h3 {
+    text-align: center;
+}
+
+img {
+    border: 2px dashed red;
+}
